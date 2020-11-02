@@ -1,0 +1,13 @@
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.exe
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.deps.json
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.runtimeconfig.json
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.runtimeconfig.dev.json
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.dll
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\bin\Debug\netcoreapp3.1\A1VahidGhaedsharaf.pdb
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.csprojAssemblyReference.cache
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.AssemblyInfoInputs.cache
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.AssemblyInfo.cs
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.csproj.CoreCompileInputs.cache
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.dll
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.pdb
+D:\vahid\visual st\net\A1VahidGhaedsharaf\A1VahidGhaedsharaf\obj\Debug\netcoreapp3.1\A1VahidGhaedsharaf.genruntimeconfig.cache
