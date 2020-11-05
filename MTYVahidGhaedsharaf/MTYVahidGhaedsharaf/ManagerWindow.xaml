@@ -1,0 +1,40 @@
+﻿<Window x:Class="MTYVahidGhaedsharaf.ManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTYVahidGhaedsharaf"
+        mc:Ignorable="d"
+        Title="ManagerWindow" Height="450" Width="800" Loaded="Window_Loaded" Background="Wheat">
+    <Grid>
+        <Menu VerticalAlignment="Top" >
+            <MenuItem x:Name="mnuFile" Header="_File">
+                <MenuItem x:Name="mnuNew" Header="_New"/>
+                <MenuItem x:Name="mnuSave" Header="_Save"/>
+                <MenuItem x:Name="mnuQuit" Cursor="" Header="Quit" Click="mnuQuit_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="mnuEdit" Header="_Edit">
+                <MenuItem x:Name="mnuInsert" Header="_Insert" Click="mnuInsert_Click"/>
+                <MenuItem x:Name="mnuUpdate" Header="_Update" Click="mnuUpdate_Click"/>
+                <MenuItem x:Name="mnuDelete" Cursor="" Header="_Delete" Click="mnuDelete_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="mnuHelp" Header="_Help">
+                <ListBoxItem Content="Vahid Ghaedsharaf /991576881"/>
+            </MenuItem>
+        </Menu>
+        <ListBox x:Name="lstPlayer" Margin="24,72,352,83" SelectionChanged="lstPlayer_SelectionChanged"/>
+        <Label Content="Managers :" HorizontalAlignment="Left" Margin="19,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="470,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.727,-1.058"/>
+        <Label Content="Players Recruited" HorizontalAlignment="Left" Margin="468,118,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.727,-1.058"/>
+        <Label Content="Available Budget" HorizontalAlignment="Left" Margin="468,152,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.727,-1.058"/>
+        <Label Content="Strength" HorizontalAlignment="Left" Margin="470,186,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.727,-1.058"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="575,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMatch" HorizontalAlignment="Left" Margin="575,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtWon" HorizontalAlignment="Left" Margin="573,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtLost" HorizontalAlignment="Left" Margin="573,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAdd" Content="Insert" HorizontalAlignment="Left" Margin="502,308,0,0" VerticalAlignment="Top" Width="50" Height="40" Click="btnAdd_Click"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="578,308,0,0" VerticalAlignment="Top" Width="50" Height="40" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="652,308,0,0" VerticalAlignment="Top" Width="50" Height="40" Click="btnDelete_Click"/>
+
+    </Grid>
+</Window>

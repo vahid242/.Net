@@ -1,0 +1,18 @@
+﻿<Window x:Class="MTYVahidGhaedsharaf.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTYVahidGhaedsharaf"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="250" Width="300" Background="Tan">
+    <Canvas>
+        <Label Content="UserName:" Canvas.Left="43" Canvas.Top="70"/>
+        <Label Content="Password:" Canvas.Left="43" Canvas.Top="117"/>
+        <TextBox x:Name="txtUser" Canvas.Left="119" Canvas.Top="75" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="txtPass" Canvas.Left="119" Canvas.Top="122" TextWrapping="Wrap" Width="120"/>
+        <Button x:Name="btnLogin" Content="Login" Canvas.Left="74" Canvas.Top="180" Width="40" Height="25" Click="btnLogin_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" Canvas.Left="172" Canvas.Top="180" Width="40" Height="25" Click="btnCancel_Click"/>
+
+    </Canvas>
+</Window>
