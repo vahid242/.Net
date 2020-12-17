@@ -1,0 +1,12 @@
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\FinalVahidGhaedsharaf.exe.config
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\FinalVahidGhaedsharaf.exe
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\FinalVahidGhaedsharaf.pdb
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\EntityFramework.dll
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\EntityFramework.SqlServer.dll
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\EntityFramework.xml
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\bin\Debug\EntityFramework.SqlServer.xml
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\obj\Debug\FinalVahidGhaedsharaf.csprojAssemblyReference.cache
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\obj\Debug\FinalVahidGhaedsharaf.csproj.CoreCompileInputs.cache
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\obj\Debug\FinalVahidGhaedsharaf.csproj.CopyComplete
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\obj\Debug\FinalVahidGhaedsharaf.exe
+D:\vahid\visual st\net\FinalVahidGhaedsharaf\FinalVahidGhaedsharaf\obj\Debug\FinalVahidGhaedsharaf.pdb
